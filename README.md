@@ -6,6 +6,13 @@ If an idea pops into my head, chances are I’ll code it—whether it’s with P
 
 My main tech stack is **Python** and **JavaScript**. I'm always exploring how data, web, and creativity blend together to make cool projects.
 
+### Fun Facts:
+- ☕ I run on tea and coffee — no strong preference, just caffeine
+- 🎌 Big anime fan
+- 🎮 Hobbies: gaming, anime, and the occasional 3am coding spiral
+
+---
+
 ### 🛠️ Tech Stack
  
 <p align="left">
@@ -21,10 +28,3 @@ My main tech stack is **Python** and **JavaScript**. I'm always exploring how da
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### Fun Facts:
-- ☕ I run on tea and coffee — no strong preference, just caffeine
-- 🎌 Big anime fan
-- 🎮 Hobbies: gaming, anime, and the occasional 3am coding spiral

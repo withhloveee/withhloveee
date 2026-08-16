@@ -1,29 +1,32 @@
-<h1 align="center">Hey there, I'm Aditya 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Science+Student;Python+%2B+JavaScript+Developer;Building+cool+things+for+the+web;Always+learning%2C+always+shipping" alt="Typing SVG" /> </p> <p align="center"> 📍 Based in <b>India</b> &nbsp;|&nbsp; 🎓 Data Science Student &nbsp;|&nbsp; 💻 Full-stack tinkerer </p>
+<table>
+<tr>
+<td valign="middle">
 
-I love working with data and building things for the web.
+<img src="Senjogahara.svg" width="300" />
 
-If an idea pops into my head, chances are I’ll code it—whether it’s with Python or JavaScript—and ship it.
+</td>
 
-My main tech stack is **Python** and **JavaScript**. I'm always exploring how data, web, and creativity blend together to make cool projects.
+<td valign="top">
 
-### Fun Facts:
-- ☕ I run on tea and coffee — no strong preference, just caffeine
-- 🎌 Big anime fan
-- 🎮 Hobbies: gaming, anime, and the occasional 3am coding spiral
+<pre>
+<span style="color:#D0D0D0">withhloveee@github ─────────────────────────────────────────</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Name:</span>        <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">Aditya</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Role:</span>       <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">Full-Stack Development, AI/ML</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Location:</span>    <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">Assam, India</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">University:</span>  <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">IIT Madras</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Languages:</span>   <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">Python, JavaScript, Java, SQL</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Frameworks:</span>  <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">Flask, Vue.js</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Tools:</span>       <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">Linux, Redis, Pandas, NumPy, Git</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Hobbies<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span>Software:</span> <span style="color:#D0D0D0; font-size:11px; font-weight:300">.......................</span> <span style="color:#58A6FF">AI/ML, Anime, Gaming</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Hobbies<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span>Hardware:</span> <span style="color:#D0D0D0; font-size:11px; font-weight:300">.......................</span> <span style="color:#58A6FF">Keyboards, PC Hardware</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span>
+<span style="color:#D0D0D0">- Contact</span> <span style="color:#D0D0D0">──────────────────────────────────────────────</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Email:</span>       <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">adityaprasad1040g@gmail.com</span>
+<span style="color:#D0D0D0; font-size:11px; font-weight:300">.</span> <span style="color:#FF8C00">Website:</span>     <span style="color:#D0D0D0; font-size:11px; font-weight:300">.............................</span> <span style="color:#58A6FF">https://withhloveee.in/</span>
+</pre>
 
----
-
-### 🛠️ Tech Stack
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>

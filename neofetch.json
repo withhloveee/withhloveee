@@ -1,4 +1,7 @@
 {
+  "image": "https://raw.githubusercontent.com/withhloveee/withhloveee/refs/heads/main/assets/Senjogahara.svg",
+  "coloredImage": true,
+
   "sections": [
     {
       "title": "{{username}}@github",
@@ -21,6 +24,7 @@
         }
       ]
     },
+
     {
       "fields": [
         {
@@ -37,6 +41,7 @@
         }
       ]
     },
+
     {
       "fields": [
         {
@@ -49,6 +54,7 @@
         }
       ]
     },
+
     {
       "title": "- Contact",
       "fields": [
@@ -63,7 +69,51 @@
       ]
     }
   ],
+
   "stats": {
-    "enabled": false
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Following",
+          "value": "{{following}}"
+        },
+        "right": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        },
+        "right": {
+          "key": "Forks",
+          "value": "{{forks}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Issues",
+          "value": "{{issues}}"
+        },
+        "right": {
+          "key": "PRs",
+          "value": "{{prs}}"
+        }
+      },
+      "loc"
+    ]
   }
 }

@@ -2,9 +2,9 @@
 
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="1050"
+    width="970"
     height="340"
-    viewBox="0 0 1050 340"
+    viewBox="0 0 970 340"
 >
 
     <style>
@@ -33,6 +33,7 @@
         }
     </style>
 
+    <g transform="matrix(1.04 0 0 1.04 -10 -10)">
 
     <!-- Senjogahara -->
 
@@ -47,7 +48,7 @@
 
     <!-- Profile -->
 
-    <g class="base" transform="translate(350, 15)">
+    <g class="base" transform="translate(330, 15)">
 
         <!-- Header -->
 
@@ -60,54 +61,54 @@
 
         <text class="dot" x="0" y="39">.</text>
         <text class="label" x="14" y="39">Name:</text>
-        <text class="dot" x="67" y="39" textLength="255" lengthAdjust="spacing">..........................................</text>
-        <text class="value" x="330" y="39">Aditya</text>
+        <text class="dot" x="67" y="39" textLength="225" lengthAdjust="spacing">.....................................</text>
+        <text class="value" x="300" y="39">Aditya</text>
 
         <text class="dot" x="0" y="61">.</text>
         <text class="label" x="14" y="61">Role:</text>
-        <text class="dot" x="67" y="61" textLength="255" lengthAdjust="spacing">..........................................</text>
-        <text class="value" x="330" y="61">Full-Stack Development, AI/ML</text>
+        <text class="dot" x="67" y="61" textLength="225" lengthAdjust="spacing">.....................................</text>
+        <text class="value" x="300" y="61">Full-Stack Development, AI/ML</text>
 
         <text class="dot" x="0" y="83">.</text>
         <text class="label" x="14" y="83">Location:</text>
-        <text class="dot" x="103" y="83" textLength="219" lengthAdjust="spacing">....................................</text>
-        <text class="value" x="330" y="83">Assam, India</text>
+        <text class="dot" x="103" y="83" textLength="189" lengthAdjust="spacing">...............................</text>
+        <text class="value" x="300" y="83">Assam, India</text>
 
         <text class="dot" x="0" y="105">.</text>
         <text class="label" x="14" y="105">University:</text>
-        <text class="dot" x="121" y="105" textLength="201" lengthAdjust="spacing">.................................</text>
-        <text class="value" x="330" y="105">IIT Madras</text>
+        <text class="dot" x="121" y="105" textLength="171" lengthAdjust="spacing">............................</text>
+        <text class="value" x="300" y="105">IIT Madras</text>
 
 
         <!-- Technical Information -->
 
         <text class="dot" x="0" y="135">.</text>
         <text class="label" x="14" y="135">Languages:</text>
-        <text class="dot" x="112" y="135" textLength="210" lengthAdjust="spacing">...................................</text>
-        <text class="value" x="330" y="135">Python, JavaScript, Java, SQL</text>
+        <text class="dot" x="112" y="135" textLength="180" lengthAdjust="spacing">..............................</text>
+        <text class="value" x="300" y="135">Python, JavaScript, Java, SQL</text>
 
         <text class="dot" x="0" y="157">.</text>
         <text class="label" x="14" y="157">Frameworks:</text>
-        <text class="dot" x="121" y="157" textLength="201" lengthAdjust="spacing">.................................</text>
-        <text class="value" x="330" y="157">Flask, Vue.js</text>
+        <text class="dot" x="121" y="157" textLength="171" lengthAdjust="spacing">............................</text>
+        <text class="value" x="300" y="157">Flask, Vue.js</text>
 
         <text class="dot" x="0" y="179">.</text>
         <text class="label" x="14" y="179">Tools:</text>
-        <text class="dot" x="76" y="179" textLength="246" lengthAdjust="spacing">.........................................</text>
-        <text class="value" x="330" y="179">Linux, Redis, Pandas, NumPy, Git</text>
+        <text class="dot" x="76" y="179" textLength="216" lengthAdjust="spacing">....................................</text>
+        <text class="value" x="300" y="179">Linux, Redis, Pandas, NumPy, Git</text>
 
 
         <!-- Hobbies -->
 
         <text class="dot" x="0" y="209">.</text>
         <text class="label" x="14" y="209">Hobbies.Software:</text>
-        <text class="dot" x="175" y="209" textLength="147" lengthAdjust="spacing">........................</text>
-        <text class="value" x="330" y="209">AI/ML, Anime, Gaming</text>
+        <text class="dot" x="175" y="209" textLength="117" lengthAdjust="spacing">...................</text>
+        <text class="value" x="300" y="209">AI/ML, Anime, Gaming</text>
 
         <text class="dot" x="0" y="231">.</text>
         <text class="label" x="14" y="231">Hobbies.Hardware:</text>
-        <text class="dot" x="175" y="231" textLength="147" lengthAdjust="spacing">........................</text>
-        <text class="value" x="330" y="231">Keyboards, PC Hardware</text>
+        <text class="dot" x="175" y="231" textLength="117" lengthAdjust="spacing">...................</text>
+        <text class="value" x="300" y="231">Keyboards, PC Hardware</text>
 
 
         <!-- Contact -->
@@ -118,13 +119,15 @@
 
         <text class="dot" x="0" y="285">.</text>
         <text class="label" x="14" y="285">Email:</text>
-        <text class="dot" x="76" y="285" textLength="246" lengthAdjust="spacing">.........................................</text>
-        <text class="value" x="330" y="285">adityaprasad1040g@gmail.com</text>
+        <text class="dot" x="76" y="285" textLength="216" lengthAdjust="spacing">....................................</text>
+        <text class="value" x="300" y="285">adityaprasad1040g@gmail.com</text>
 
         <text class="dot" x="0" y="307">.</text>
         <text class="label" x="14" y="307">Website:</text>
-        <text class="dot" x="94" y="307" textLength="228" lengthAdjust="spacing">......................................</text>
-        <text class="value" x="330" y="307">https://withhloveee.in/</text>
+        <text class="dot" x="94" y="307" textLength="198" lengthAdjust="spacing">.................................</text>
+        <text class="value" x="300" y="307">https://withhloveee.in/</text>
+
+    </g>
 
     </g>
 

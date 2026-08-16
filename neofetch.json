@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Aditya"
+        },
+        {
+          "key": "Role",
+          "value": "Full-Stack Development, AI/ML"
+        },
+        {
+          "key": "Location",
+          "value": "Assam, India"
+        },
+        {
+          "key": "University",
+          "value": "IIT Madras"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Languages",
+          "value": "Python, JavaScript, Java, SQL"
+        },
+        {
+          "key": "Frameworks",
+          "value": "Flask, Vue.js"
+        },
+        {
+          "key": "Tools",
+          "value": "Linux, Redis, Pandas, NumPy, Git"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Hobbies.Software",
+          "value": "AI/ML, Anime, Gaming"
+        },
+        {
+          "key": "Hobbies.Hardware",
+          "value": "Keyboards, PC Hardware"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        {
+          "key": "Email",
+          "value": "adityaprasad1040g@gmail.com"
+        },
+        {
+          "key": "Website",
+          "value": "https://withhloveee.in/"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "enabled": false
+  }
+}

@@ -39,6 +39,8 @@ const aditya = {
 
 <br>
 
+<div align="center" style="margin-top: -45px;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</div>
 
 </div>
